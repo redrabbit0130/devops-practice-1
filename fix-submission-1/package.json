@@ -1,0 +1,21 @@
+{
+  "name": "fix-submission",
+  "version": "1.0.0",
+  "description": "This is my first DevOps practice app.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node -c server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redrabbit0130/devops-practice-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redrabbit0130/devops-practice-1/issues"
+  },
+  "homepage": "https://github.com/redrabbit0130/devops-practice-1#readme"
+}

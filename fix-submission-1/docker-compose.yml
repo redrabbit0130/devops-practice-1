@@ -1,0 +1,8 @@
+services:
+  app:
+    build: .
+    container_name: simple-devops-app
+    ports:
+      - "3000:3000"
+    environment:
+      APP_MESSAGE: "Hello from Docker Compose"
