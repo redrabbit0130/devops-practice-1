@@ -1,7 +1,7 @@
 services:
   app:
     build: .
-    container_name: simple-devops-app
+    container_name: fix-submission-1-app
     ports:
       - "3000:3000"
     environment:

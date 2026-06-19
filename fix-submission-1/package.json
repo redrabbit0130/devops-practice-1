@@ -1,21 +1,18 @@
 {
-  "name": "fix-submission",
+  "name": "fix-submission-1",
   "version": "1.0.0",
-  "description": "This is my first DevOps practice app.",
+  "description": "Simple Node.js DevOps practice app",
   "main": "server.js",
   "scripts": {
-    "test": "node -c server.js",
-    "start": "node server.js"
+    "start": "node server.js",
+    "test": "node -c server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/redrabbit0130/devops-practice-1.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/redrabbit0130/devops-practice-1/issues"
-  },
-  "homepage": "https://github.com/redrabbit0130/devops-practice-1#readme"
+  "keywords": [
+    "node",
+    "devops",
+    "docker",
+    "ci-cd"
+  ],
+  "author": "Fernando Uribe",
+  "license": "ISC"
 }

@@ -44,4 +44,4 @@ jobs:
         with:
           context: ./fix-submission-1
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/fix-submission:latest
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/fix-submission-1:latest
